@@ -1,7 +1,7 @@
 {
-  "name": "simple_es6_koa",
+  "name": "es6_koa_jest_webpack",
   "version": "1.0.0",
-  "description": "",
+  "description": "A boilerplate project using Koa, Jest and Webpack",
   "scripts": {
     "test": "jest",
     "test:coverage": "jest --coverage",
